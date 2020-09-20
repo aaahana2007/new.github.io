@@ -1,0 +1,22 @@
+main>div{
+	background-color: gray;
+	padding:10px;
+	margin: 20px;
+}
+
+main>div>h4{
+	text-align: center;
+	padding:10px;
+}
+h1{
+	color: black;
+	margin: 0px;
+	padding: 10px;
+}
+body>header{
+	height: 150px;
+	background-color: gray; 
+}
+ul{
+	color: black;
+}
